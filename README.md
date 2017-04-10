@@ -1,2 +1,4 @@
 # hello-world
-Just another repo
+Hi,
+
+A sample read me file for helloworld repo.
